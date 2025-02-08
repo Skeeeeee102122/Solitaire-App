@@ -1,0 +1,21 @@
+#link{
+    text-align: center;
+    justify-content: center;
+    background-color: green;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+#p1{
+    text-align: center;
+    justify-content: center;
+    background-color: green;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+body{
+    background-color: lightgreen;
+    border-radius: 20px;
+    padding: 10px;
+}
